@@ -49,7 +49,7 @@ A full-stack application for tracking stock portfolios with real-time price upda
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/portfolio-tracker.git
+   git clone https://github.com/PavanTirumanisetti/CapX
    cd portfolio-tracker
    ```
 
